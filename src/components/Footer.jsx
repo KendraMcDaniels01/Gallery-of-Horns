@@ -6,7 +6,7 @@ class Footer extends React.Component {
     <footer>
     <p>Kendra McDaniels</p>
     </footer>
-  )
+  );
 }
 }
 
