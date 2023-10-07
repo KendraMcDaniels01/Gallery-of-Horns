@@ -1,7 +1,8 @@
-import React from 'react';
+import React from 'react'; 
 import { Container, Row, Col } from 'react-bootstrap'
 import HornedBeast from './HornedBeast';
 import hornedBeastValues from '../assets/data.json'
+
 
 
 
@@ -14,6 +15,7 @@ class Gallery extends React.Component {
         <Col key={index}>
         <HornedBeast 
         key={index} 
+        data={beast}
         title={beast.title} 
         image_url={beast.image_url} 
         horns={beast.horns} 
@@ -23,6 +25,7 @@ class Gallery extends React.Component {
         )}
         </Row>
       </Container>
+ 
     );
   }
 }

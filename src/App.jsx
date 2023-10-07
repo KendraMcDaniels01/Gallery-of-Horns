@@ -3,13 +3,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from  './components/Header';
 import Footer from './components/Footer';
 import Gallery from './components/Gallery';
+import data from './assets/data';
+
 
 function App() {
   return (
     <>
-      <div>
+      <div className="App">
         <Header />
-        <Gallery />
+        <Gallery data={data} />
         <Footer />
       </div>
     </>
