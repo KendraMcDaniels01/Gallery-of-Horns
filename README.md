@@ -1,6 +1,38 @@
 # Horned Beasts
 
-project description goes here.
+## Feature #1: Display Images
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 45min
+
+## Feature #2: Allow Users to Favorite Individual Beasts
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 45min
+
+## Feature #3: Bootstrap
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 45min
+
+## Feature #4: Display a Modal
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 45min
+
+## Feature #5 Filter by Numbers of Horns
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 1 hour
+
+## Lighthouse Report
+
+![Lighthouse Report](<Lighthouse report.jpg>)
 
 ## Getting Started
 
