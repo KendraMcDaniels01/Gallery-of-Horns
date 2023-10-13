@@ -5,7 +5,6 @@ import Footer from './components/Footer';
 import Gallery from './components/Gallery';
 import data from './assets/data';
 
-
 function App() {
   return (
     <>
